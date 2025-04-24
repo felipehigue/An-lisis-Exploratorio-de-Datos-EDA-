@@ -62,7 +62,7 @@ El dataset utilizado es `social_media_sucio.csv`, un archivo CSV simulado que co
 ## Cómo Ejecutar el Código
 
 1.  Asegúrate de tener instaladas las bibliotecas necesarias: Pandas, Matplotlib y Seaborn. Puedes instalarlas usando `pip install pandas matplotlib seaborn`.
-2.  Guarda el archivo `social_media_sucio.csv` en el mismo directorio que tu script de Python o notebook de Colab.
+2.  Guarda el archivo `social_mediamedia.xlsx` en el mismo directorio que tu script de Python o notebook de Colab.
 3.  Ejecuta el script de Python o el notebook de Colab que contiene el código para el análisis.
 
 ## Autor
